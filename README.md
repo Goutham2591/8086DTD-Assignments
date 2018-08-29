@@ -1,10 +1,11 @@
 # 8086DTD-Assignments
 
-** Personal respository **
+**Goutham Assignments respository**
 
 This repository will consists of all files and folders that are part of Data-to-Decision class assignments
 
-[License link] is inlcuded with this respository.
+[License link](https://github.com/Goutham2591/8086DTD-Assignments/blob/master/LICENSE) is inlcuded with this respository.
+> The License that i had choosen is GNU General Public License v3.0
 
 
 ## Further Assignments
