@@ -1,10 +1,13 @@
 # 8086DTD-Assignments
 
+** Personal respository **
+
 This repository will consists of all files and folders that are part of Data-to-Decision class assignments
 
-General License is inlcuded with this respository.
+[License link] is inlcuded with this respository.
 
-##Further Assignments
+
+## Further Assignments
 
 There are exciting assignments as part of this coursework. And i would be using this respository to upload the files and documents required.  So i will keep editing this document when i keep adding documents for my future assignments.  
 
