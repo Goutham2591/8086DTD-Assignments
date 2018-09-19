@@ -9,6 +9,8 @@
 * Data collected for the year 2010 is insufficient, so making a comparison for multiple years isn't possible[cannot compare 2010,2011 data]
 
 # Task2
+* Based on my observations in # Task 1, I have come up with this following table structure.
+* I have added a new column "Day/ Night" to gather information about when the sample was collected.
 
 | Date | Depth | Cuni #/L | Cuni ColonySize | Chippo #/L | Chippo ColonySize | Chla | Temperature | Day/Night |
 |------|-------|----------|-----------------|------------|-------------------|------|-------------|-----------|
