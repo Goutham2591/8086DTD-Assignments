@@ -67,3 +67,46 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 |    Quercus    |    Coccinea          |    Florida, Missouri    |    Shade Tree,      |    60 - 80      |    40 - 50    |
 |    Quercus    |    Dalechampii       |    NA                   |    Street Tree,     |    30 - 50      |    20 - 40    |
 |    Quercus    |    Elliposidallis    |    NA                   |    Shade Tree,      |    50 - 70      |    40 - 60    |
+
+<br>
+
+|    Genus      |    Species           |    Growth Rate       |    Sun Preference                |    Sun Hours    |
+|---------------|----------------------|----------------------|----------------------------------|-----------------|
+|    Quercus    |    acutissima        |    medium            |    Full Sun                      |    6            |
+|    Quercus    |    alba              |    Slow to Medium    |    Full Sun and Partial Shade    |    4            |
+|    Quercus    |    bicolor           |    medium            |    Full Sun                      |    6            |
+|    Quercus    |    Coccinea          |    medium            |    Full Sun                      |    6            |
+|    Quercus    |    Dalechampii       |                      |    Full Sun                      |    6            |
+|    Quercus    |    Elliposidallis    |    NA                |    Full Sun                      |    6            |
+
+<br>
+
+|    Genus      |    Species           |    Tree Name          |    Bloom Time       |    Bloom-description    |
+|---------------|----------------------|-----------------------|---------------------|-------------------------|
+|    Quercus    |    acutissima        |    Sawtooth Oak       |    March - April    |    Yellowish Green      |
+|    Quercus    |    alba              |    White Oak          |    May              |    Yellowish Green      |
+|    Quercus    |    bicolor           |    Swamp White Oak    |    April            |    Yellowish Green      |
+|    Quercus    |    Coccinea          |    Scarlet Oak        |    April-May        |    Yellowish Green      |
+|    Quercus    |    Dalechampii       |    Oak                |    April-May        |    Yellowish Green      |
+|    Quercus    |    Elliposidallis    |    Hill's Oak         |    April-May        |    Yellowish Green      |
+
+<br>
+
+
+Acorn
+* Acorns are the nuts that are produced by Oak tree, plays a major role in forest ecology. One in 10000 acorns will become a tree and a single oak tree will generate 2000 acorns a year. Birds such as jays, pigeons, ducks consume acorns as their regular diet. Small mammals that feed on this nut include mice, squirrels and rodents. What attracts animal towards acorns is the larger size of it. They are rich in proteins, carbohydrates and fats as well as minerals such as calcium, potassium and phosphorous. Acorns had played a major role as a food source for humans in the earlier days. Small mammals are the ones, that help disperse the seeds away from the mother tree for germination.
+<br>
+Other Uses and Benefits of Oak Tree Wood
+* White oak wood is most widely used for making barrels to store wine. The wood adds flavor to the wine while it ages. Wine bottles are sealed using Cork oak. Oak trees are also used to improve environmental conditions in a landscape. Adding to that, they act as a habitat, providing cover for birds. Oak trees does simply provide garden ornamentation.  
+
+<br>
+Some Important Attributes to summarize
+* Oak trees provide a great fall color. The trees can live for centuries. White oak along with another oak lumber was used to build the famous USS Constitution which is also known as “Old Ironsides”.
+<br>
+CITATION:
+* Oak. (2018, September 18). Retrieved from https://en.wikipedia.org/wiki/Oak
+* Interesting Facts About Oak Trees. (n.d.). Retrieved from https://owlcation.com/stem/Interesting-Facts-about-the-Oak-Tree
+* Just Fun Facts. (1968, January 01). Retrieved from http://justfunfacts.com/interesting-facts-about-oak-trees/
+* Sawtooth Oak Quercus acutissima. (n.d.). Retrieved from https://www.arborday.org/trees/treeguide/TreeDetail.cfm?ItemID=880
+* White Oak Quercus alba. (n.d.). Retrieved from https://www.arborday.org/trees/treeguide/treedetail.cfm?itemID=883
+* White oak. (n.d.). Retrieved from http://www.mortonarb.org/trees-plants/tree-plant-descriptions/white-oak
