@@ -105,20 +105,21 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 **Acorn**
 * Acorns are the nuts that are produced by Oak tree, plays a major role in forest ecology. One in 10000 acorns will become a tree and a single oak tree will generate 2000 acorns a year. Birds such as jays, pigeons, ducks consume acorns as their regular diet. Small mammals that feed on this nut include mice, squirrels and rodents. What attracts animal towards acorns is the larger size of it. They are rich in proteins, carbohydrates and fats as well as minerals such as calcium, potassium and phosphorous. Acorns had played a major role as a food source for humans in the earlier days. Small mammals are the ones, that help disperse the seeds away from the mother tree for germination.
 <br>
-**Other Uses and Benefits of Oak Tree Wood**
-<br>
-* White oak wood is most widely used for making barrels to store wine. The wood adds flavor to the wine while it ages. Wine bottles are sealed using Cork oak. Oak trees are also used to improve environmental conditions in a landscape. Adding to that, they act as a habitat, providing cover for birds. Oak trees does simply provide garden ornamentation.  
 
-<br>
+**Other Uses and Benefits of Oak Tree Wood**
+
+<ul><li>White oak wood is most widely used for making barrels to store wine. The wood adds flavor to the wine while it ages. Wine bottles are sealed using Cork oak. Oak trees are also used to improve environmental conditions in a landscape. Adding to that, they act as a habitat, providing cover for birds. Oak trees does simply provide garden ornamentation.</li></ul>  
+
 **Some Important Attributes to summarize**
+
+<ul> <li>Oak trees provide a great fall color. The trees can live for centuries. White oak along with another oak lumber was used to build the famous USS Constitution which is also known as “Old Ironsides”.</li></ul>
 <br>
-* Oak trees provide a great fall color. The trees can live for centuries. White oak along with another oak lumber was used to build the famous USS Constitution which is also known as “Old Ironsides”.
-<br>
+
 **CITATION:**
-<br>
-* Oak. (2018, September 18). Retrieved from https://en.wikipedia.org/wiki/Oak
-* Interesting Facts About Oak Trees. (n.d.). Retrieved from https://owlcation.com/stem/Interesting-Facts-about-the-Oak-Tree
-* Just Fun Facts. (1968, January 01). Retrieved from http://justfunfacts.com/interesting-facts-about-oak-trees/
-* Sawtooth Oak Quercus acutissima. (n.d.). Retrieved from https://www.arborday.org/trees/treeguide/TreeDetail.cfm?ItemID=880
-* White Oak Quercus alba. (n.d.). Retrieved from https://www.arborday.org/trees/treeguide/treedetail.cfm?itemID=883
-* White oak. (n.d.). Retrieved from http://www.mortonarb.org/trees-plants/tree-plant-descriptions/white-oak
+<ul>
+	<li> Oak. (2018, September 18). Retrieved from https://en.wikipedia.org/wiki/Oak</li>
+<li>Interesting Facts About Oak Trees. (n.d.). Retrieved from https://owlcation.com/stem/Interesting-Facts-about-the-Oak-Tree</li>
+<li>Just Fun Facts. (1968, January 01). Retrieved from http://justfunfacts.com/interesting-facts-about-oak-trees/</li>
+<li>Sawtooth Oak Quercus acutissima. (n.d.). Retrieved from https://www.arborday.org/trees/treeguide/TreeDetail.cfm?ItemID=880</li>
+<li>White Oak Quercus alba. (n.d.). Retrieved from https://www.arborday.org/trees/treeguide/treedetail.cfm?itemID=883</li>
+<li>White oak. (n.d.). Retrieved from http://www.mortonarb.org/trees-plants/tree-plant-descriptions/white-oak</li>
