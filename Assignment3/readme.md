@@ -40,6 +40,23 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 </ul>
 <br>
 
+* These trees generally are great shade trees and many of the species have a great fall color.
+* To add more insight in to the data set which we have, I have done a research and collected information about how different species react to climatic conditions and other useful attributes. The fields that I have collected for different species includes the following.
+
+<ul><li>Bloom time, which is a month field showing which month it blooms, 
+<li>Bloom description, which describes the color of the leaves during a season. ex yellowish green.
+<li>Wild Life Value which describes how the wild life beings such as birds are being benefitted by oak trees.
+<li>Foliage, to capture whether the trees are deciduous or evergreen</li>
+<li>Sun Preference, to understand if the tree requires more sunlight or not</li>
+	<li>Sun Hours, Number of hours required for the tree to be in sun.</li>
+<li>Soil Preference, to know what soil conditions that each species prefers and grows. Ex: moist, well-drained, acidic</li>
+<li>Tree Type tells how the tree is used. Ex: Shade tree or Ornamental tree or Street Tree</li>
+<li>Tree Name to record the actual name or non-scientifical name of the tree</li>
+<li>Height and Width to know the minimum and maximum height and width of each species of oak</li>
+
+</ul>
+<br>
+
 
 |    Genus      |    Species           |    Native               |    Tree Type        |    Height       |    Width      |
 |---------------|----------------------|-------------------------|---------------------|-----------------|---------------|
