@@ -1,4 +1,6 @@
-**Morton Arboretum - OAK Tree Collection:**
+# Background Research on the Organism : Oak Tree  
+
+## Morton Arboretum - OAK Tree Collection:
 
 I would like to start with mentioning some interesting facts about the “OAK Tree” as our study is based on it. 
 *	There are about 600 extant species of “oaks” and our Team’s study will be based on 40 of those that belong to the genus “Quercus”. OAK trees are widely found in Asia and North America where in North America contains the Largest number of “oak” species with an estimation of more than 90 species and Asia rank’s second with an approximation of 80 species. A wide variety of “oak” tree species are deciduous and most of them do not shed its leaves until spring. Adding to that, there are a very limited species of “oak” which are Evergreen and are generally found in the Mediterranean region.
@@ -6,7 +8,7 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 *	Oak has been chosen as a national tree for many countries such as USA in the year 2004, Germany, England, etc., it is considered as a common symbol of strength.
 * Oak Tree has more strength and hardness. It has a high tannin content which makes it very resistant to fungal and insect attacks. Adding to that, they are used to manufacture ships, furniture’s, etc.
 * Oaks are more likely struck by lightning than the other trees.
-<ul><li>	There are three main or common types of “oak” trees </li>
+<ul><li>	There are three main or common types of “oak” trees </li><br>
    <ul> <li>White Oak - [Genus: Quercus]- [Species: Alba] </li>
    <ul> <li>	Native to North America, the tallest of all oak species </li>
 <li>The branches of these trees usually spread over a large area </li>
