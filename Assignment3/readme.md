@@ -42,8 +42,8 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 </ul>
 <br>
 
-* These trees generally are great shade trees and many of the species have a great fall color.
-* To add more insight in to the data set which we have, I have done a research and collected information about how different species react to climatic conditions and other useful attributes. The fields that I have collected for different species includes the following.
+<li>These trees generally are great shade trees and many of the species have a great fall color.</li>
+<li>To add more insight in to the data set which we have, I have done a research and collected information about how different species react to climatic conditions and other useful attributes. The fields that I have collected for different species includes the following.</li>
 
 <ul><ul><li>Bloom time, which is a month field showing which month it blooms, </li>
 <li>Bloom description, which describes the color of the leaves during a season. ex yellowish green.</li>
