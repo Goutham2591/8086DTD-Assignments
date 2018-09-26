@@ -105,11 +105,12 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 **Acorn**
 * Acorns are the nuts that are produced by Oak tree, plays a major role in forest ecology. One in 10000 acorns will become a tree and a single oak tree will generate 2000 acorns a year. Birds such as jays, pigeons, ducks consume acorns as their regular diet. Small mammals that feed on this nut include mice, squirrels and rodents. What attracts animal towards acorns is the larger size of it. They are rich in proteins, carbohydrates and fats as well as minerals such as calcium, potassium and phosphorous. Acorns had played a major role as a food source for humans in the earlier days. Small mammals are the ones, that help disperse the seeds away from the mother tree for germination.
 <br>
-Other Uses and Benefits of Oak Tree Wood
+**Other Uses and Benefits of Oak Tree Wood**
+<br>
 * White oak wood is most widely used for making barrels to store wine. The wood adds flavor to the wine while it ages. Wine bottles are sealed using Cork oak. Oak trees are also used to improve environmental conditions in a landscape. Adding to that, they act as a habitat, providing cover for birds. Oak trees does simply provide garden ornamentation.  
 
 <br>
-Some Important Attributes to summarize
+**Some Important Attributes to summarize**
 <br>
 * Oak trees provide a great fall color. The trees can live for centuries. White oak along with another oak lumber was used to build the famous USS Constitution which is also known as “Old Ironsides”.
 <br>
