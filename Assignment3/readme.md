@@ -7,4 +7,4 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 * Oak Tree has more strength and hardness. It has a high tannin content which makes it very resistant to fungal and insect attacks. Adding to that, they are used to manufacture ships, furniture’s, etc.
 * Oaks are more likely struck by lightning than the other trees.
 *	There are three main or common types of “oak” trees 
-**	White Oak - [Genus: Quercus]- [Species: Alba]
+  * White Oak - [Genus: Quercus]- [Species: Alba] 
