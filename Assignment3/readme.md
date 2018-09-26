@@ -1,4 +1,4 @@
-Morton Arboretum - OAK Tree Collection:
+**Morton Arboretum - OAK Tree Collection:**
 
 I would like to start with mentioning some interesting facts about the “OAK Tree” as our study is based on it. 
 *	There are about 600 extant species of “oaks” and our Team’s study will be based on 40 of those that belong to the genus “Quercus”. OAK trees are widely found in Asia and North America where in North America contains the Largest number of “oak” species with an estimation of more than 90 species and Asia rank’s second with an approximation of 80 species. A wide variety of “oak” tree species are deciduous and most of them do not shed its leaves until spring. Adding to that, there are a very limited species of “oak” which are Evergreen and are generally found in the Mediterranean region.
@@ -102,7 +102,7 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 |    Quercus    |    Elliposidallis    |    NA           |    Birds, Cavity-Nesting                  |
 <br>
 
-Acorn
+**Acorn**
 * Acorns are the nuts that are produced by Oak tree, plays a major role in forest ecology. One in 10000 acorns will become a tree and a single oak tree will generate 2000 acorns a year. Birds such as jays, pigeons, ducks consume acorns as their regular diet. Small mammals that feed on this nut include mice, squirrels and rodents. What attracts animal towards acorns is the larger size of it. They are rich in proteins, carbohydrates and fats as well as minerals such as calcium, potassium and phosphorous. Acorns had played a major role as a food source for humans in the earlier days. Small mammals are the ones, that help disperse the seeds away from the mother tree for germination.
 <br>
 Other Uses and Benefits of Oak Tree Wood
@@ -113,7 +113,7 @@ Some Important Attributes to summarize
 <br>
 * Oak trees provide a great fall color. The trees can live for centuries. White oak along with another oak lumber was used to build the famous USS Constitution which is also known as “Old Ironsides”.
 <br>
-CITATION:
+**CITATION:**
 <br>
 * Oak. (2018, September 18). Retrieved from https://en.wikipedia.org/wiki/Oak
 * Interesting Facts About Oak Trees. (n.d.). Retrieved from https://owlcation.com/stem/Interesting-Facts-about-the-Oak-Tree
