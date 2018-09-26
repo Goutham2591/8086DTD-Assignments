@@ -109,7 +109,7 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 **Other Uses and Benefits of Oak Tree Wood**
 
 <ul><li>White oak wood is most widely used for making barrels to store wine. The wood adds flavor to the wine while it ages. Wine bottles are sealed using Cork oak. Oak trees are also used to improve environmental conditions in a landscape. Adding to that, they act as a habitat, providing cover for birds. Oak trees does simply provide garden ornamentation.</li></ul>  
-
+<br>
 **Some Important Attributes to summarize**
 
 <ul> <li>Oak trees provide a great fall color. The trees can live for centuries. White oak along with another oak lumber was used to build the famous USS Constitution which is also known as “Old Ironsides”.</li></ul>
