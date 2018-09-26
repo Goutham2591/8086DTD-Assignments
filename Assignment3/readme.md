@@ -7,4 +7,15 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 * Oak Tree has more strength and hardness. It has a high tannin content which makes it very resistant to fungal and insect attacks. Adding to that, they are used to manufacture ships, furniture’s, etc.
 * Oaks are more likely struck by lightning than the other trees.
 *	There are three main or common types of “oak” trees 
-  * White Oak - [Genus: Quercus]- [Species: Alba] 
+*<li> White Oak - [Genus: Quercus]- [Species: Alba] </li>
+
+
+
+|    Genus      |    Species           |    Native               |    Tree Type        |    Height       |    Width      |
+|---------------|----------------------|-------------------------|---------------------|-----------------|---------------|
+|    Quercus    |    acutissima        |    China, Japan         |    Shade Tree       |    40 - 60      |    40 - 60    |
+|    Quercus    |    alba              |    Eastern US           |    Shade Tree       |    50 - 80      |    50 - 80    |
+|    Quercus    |    bicolor           |    Northeastern NA      |    Shade Tree       |    50 - 60      |    50 - 60    |
+|    Quercus    |    Coccinea          |    Florida, Missouri    |    Shade Tree,      |    60 - 80      |    40 - 50    |
+|    Quercus    |    Dalechampii       |    NA                   |    Street Tree,     |    30 - 50      |    20 - 40    |
+|    Quercus    |    Elliposidallis    |    NA                   |    Shade Tree,      |    50 - 70      |    40 - 60    |
