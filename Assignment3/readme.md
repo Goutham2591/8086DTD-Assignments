@@ -6,9 +6,39 @@ I would like to start with mentioning some interesting facts about the “OAK Tr
 *	Oak has been chosen as a national tree for many countries such as USA in the year 2004, Germany, England, etc., it is considered as a common symbol of strength.
 * Oak Tree has more strength and hardness. It has a high tannin content which makes it very resistant to fungal and insect attacks. Adding to that, they are used to manufacture ships, furniture’s, etc.
 * Oaks are more likely struck by lightning than the other trees.
-*	There are three main or common types of “oak” trees 
-  * White Oak - [Genus: Quercus]- [Species: Alba] 
+<ul><li>	There are three main or common types of “oak” trees </li>
+   <ul> <li>White Oak - [Genus: Quercus]- [Species: Alba] </li>
+   <ul> <li>	Native to North America, the tallest of all oak species </li>
+<li>The branches of these trees usually spread over a large area </li>
+<li>The leaves will turn red or brown during fall</li>
+<li>Height: between 60 and 100 feet</li>
+<li>	Width: 4 feet </li>
+<li>Leaves: 4 to 9 inches long</li>
+</li>
 
+</ul>
+</ul>
+<br>
+<ul><li>	Red Oak - [Genus: Quercus]- [Species: rubra]</li>
+	<ul><li>Grow well in moist, well-drained slopes</li>
+	<li>Leaves change from red to deep reddish-brown during fall</li>
+	<li>Height: 50 – 80 feet</li>
+	<li>Width: 2 – 3 feet</li>
+	<li>Leaves: 5 to 9 inches long</li>
+</ul>
+</ul>
+<br>
+
+<ul><li>	Black Oak </li>
+	<ul><li>Leaves turn bright red in the fall</li>
+	<li>Leaves change from red to deep reddish-brown during fall</li>
+	<li>	Height: 80 feet</li>
+	<li>	Leaves: 4 to 8 inches long</li>
+	</ul>
+
+
+</ul>
+<br>
 
 
 |    Genus      |    Species           |    Native               |    Tree Type        |    Height       |    Width      |
